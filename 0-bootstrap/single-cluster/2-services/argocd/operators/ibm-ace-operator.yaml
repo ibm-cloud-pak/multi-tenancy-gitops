@@ -22,7 +22,7 @@ spec:
         ibm-ace-operator:
           subscriptions:
             ibmace:
-              name: ibm-ace-operator
+              name: ibm-appconnect
               subscription:
                 channel: v7.2
                 installPlanApproval: Automatic
